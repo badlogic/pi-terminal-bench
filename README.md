@@ -169,6 +169,16 @@ Then email the jobs directory to:
 - mchlmerrill@gmail.com
 - alex@laude.org
 
+## Viewing Results
+
+After running evaluations, use `show-results.js` to display results with leaderboard comparison:
+
+```bash
+./show-results.js
+```
+
+This will parse the latest results from `pi-tbench-results/` and show where pi ranks on the Terminal-Bench 2.0 leaderboard.
+
 ## Development
 
 ```bash
